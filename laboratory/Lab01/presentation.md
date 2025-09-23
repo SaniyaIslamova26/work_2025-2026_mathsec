@@ -54,7 +54,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](<img width="341" height="347" alt="1" src="https://github.com/user-attachments/assets/251379a9-0048-4745-a16b-24f48a373377" />)
+![](blob:https://web.telegram.org/5585ef3b-380c-4987-8dcf-d96d43b1b0cc)
 
 :::
 ::::::::::::::
