@@ -54,7 +54,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](blob:https://web.telegram.org/5585ef3b-380c-4987-8dcf-d96d43b1b0cc)
+[](blob:https://web.telegram.org/5585ef3b-380c-4987-8dcf-d96d43b1b0cc)
 
 :::
 ::::::::::::::
