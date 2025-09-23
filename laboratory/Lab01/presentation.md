@@ -48,13 +48,13 @@ header-includes:
   * Исламова Сания Маратовна
   * студент уч. группы НПИмд-01-24
   * Российский университет дружбы народов
-  * 1132249576@pfur.ru
-  * https://github.com/SaniyaIslamova26
+  * [1132249576@pfur.ru](mailto:1132249576@pfur.ru)
+  * <https://github.com/SaniyaIslamova26>
 
 :::
 ::: {.column width="30%"}
 
-![](C:\Users\4eka0\Downloads\моё фото.png)
+![](Image/моё фото.png)
 
 :::
 ::::::::::::::
