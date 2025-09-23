@@ -56,11 +56,6 @@ header-includes:
 
 <img width="341" height="347" alt="1" src="https://github.com/user-attachments/assets/b729e53a-3167-4c53-806e-976217c478d6" />
 
-
-
-blob:https://web.telegram.org/5585ef3b-380c-4987-8dcf-d96d43b1b0cc
-[](blob:https://web.telegram.org/5585ef3b-380c-4987-8dcf-d96d43b1b0cc)
-
 :::
 ::::::::::::::
 
