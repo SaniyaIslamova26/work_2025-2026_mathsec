@@ -54,7 +54,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](C:\Users\4eka0\Downloads\моё фото.png)
+![](C:\Users\4eka0\Downloads\1.png)
 
 :::
 ::::::::::::::
