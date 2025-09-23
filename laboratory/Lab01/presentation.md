@@ -2,8 +2,8 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа №1
-subtitle:  Markdown
-author: Исламова Сания Маратовна
+subtitle:  Реализация шифра Цезаря с произвольным ключом k, реализация  шифра Атбаш. Markdown
+author: Исламова С.М.
   - 
 institute:
   - Российский университет дружбы народов, Москва, Россия
@@ -54,7 +54,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](<img width="341" height="347" alt="моё фото" src="https://github.com/user-attachments/assets/4aac78c4-9aef-48a9-a509-4e16c469f98d" />)
+![](C:\Users\4eka0\Downloads\моё фото.png)
 
 :::
 ::::::::::::::
