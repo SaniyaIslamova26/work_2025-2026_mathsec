@@ -3,11 +3,12 @@
 lang: ru-RU
 title: Лабораторная работа №1
 subtitle:  Markdown
-author:
+author: Исламова Сания Маратовна
   - 
 institute:
   - Российский университет дружбы народов, Москва, Россия
-date: 
+date:
+- 23.09.2025
 
 ## i18n babel
 babel-lang: russian
