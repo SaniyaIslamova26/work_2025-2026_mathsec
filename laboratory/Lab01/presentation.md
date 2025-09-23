@@ -54,7 +54,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](C:\Users\4eka0\Downloads\1.png)
+![](<img width="341" height="347" alt="1" src="https://github.com/user-attachments/assets/251379a9-0048-4745-a16b-24f48a373377" />)
 
 :::
 ::::::::::::::
