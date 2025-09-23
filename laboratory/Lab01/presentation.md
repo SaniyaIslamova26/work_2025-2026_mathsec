@@ -54,6 +54,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
+C:\Users\4eka0\Downloads\1.png
 blob:https://web.telegram.org/5585ef3b-380c-4987-8dcf-d96d43b1b0cc
 [](blob:https://web.telegram.org/5585ef3b-380c-4987-8dcf-d96d43b1b0cc)
 
