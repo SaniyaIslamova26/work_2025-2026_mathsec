@@ -15,3 +15,9 @@ https://yamadharma.github.io/ru/
 Студ.билет 1132249576
 
 ФФМиЕН РУДН (ММиИИ)
+
+### Ссылки на плейлисты, где загружены видео с работами:
+1. [VK Video](https://vkvideo.ru/playlist/191398882_1)
+2. [PL Video](https://plvideo.ru/playlist?list=GBFH3NdOG9jm)
+3. [RuTube](https://rutube.ru/plst/1213697)
+
