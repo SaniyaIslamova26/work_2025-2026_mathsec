@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа №3
-subtitle:  Реализация алгоритма шифрования аммированием. Markdown
+subtitle:  Реализация алгоритма шифрования гаммированием. Markdown
 author: Исламова С.М.
   - 
   
