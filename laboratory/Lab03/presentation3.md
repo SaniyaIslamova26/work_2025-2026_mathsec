@@ -88,7 +88,7 @@ header-includes:
 :::
 ::: {.column width="25%"}
 
-<img width="1915" height="887" alt="image" src="https://github.com/user-attachments/assets/b9ed42ac-5f52-4b82-88f6-edcffe0b2b1a" />
+<img width="686" height="425" alt="Снимок экрана 2025-10-11 161221" src="https://github.com/user-attachments/assets/b8038ed7-4ea3-4984-95e4-5cbc0e833ebb" />
 
 
 :::
