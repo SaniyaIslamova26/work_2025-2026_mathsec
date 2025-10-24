@@ -83,3 +83,18 @@ end
 # Конец условий и циклов
 ```
 
+### Код реализации вычисление наибольшего общего делителя (НОД) алгоритмами Евклида:
+
+<img width="1643" height="850" alt="image" src="https://github.com/user-attachments/assets/e9816d4a-b703-41c8-851e-dab25cc56f5c" />
+
+<img width="1649" height="835" alt="image" src="https://github.com/user-attachments/assets/095ad0ac-5192-490f-a5fb-38cb5d2bfe42" />
+
+<img width="1041" height="523" alt="image" src="https://github.com/user-attachments/assets/df805d74-0389-4987-843c-7004b7aee698" />
+
+### Результат работы вычисление наибольшего общего делителя (НОД) алгоритмами Евклида:
+
+<img width="719" height="576" alt="image" src="https://github.com/user-attachments/assets/baa48b47-4b23-475e-bf58-d0793bab7a2d" />
+
+
+
+
