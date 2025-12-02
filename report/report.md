@@ -1,5 +1,4 @@
 ```
----
 ## Front matter
 title: "Реферат по теме: «Варианты протокола вручения бита. Подбрасывание монеты по телефону»"
 subtitle: "по дисциплине: Математические основы защиты информации и информационной безопасности"
@@ -65,7 +64,6 @@ header-includes:
   - \usepackage{indentfirst}
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
----
 ```
 
 
@@ -107,7 +105,8 @@ header-includes:
 - **односторонние функции** — вычислить прямое значение легко, обратное — невозможно;
 - **случайные строки (соли)** — обеспечивают непредсказуемость.
 
-[<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff8263bd-074a-45d6-8e04-3867b29a55bc" />](https://fuzeservers.ru/wp-content/uploads/7/3/d/73dc20a3fb8f81b49625ff6678c0be92.png)
+<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/e92cee03-caeb-4114-9d8d-63b02ad38106" />
+
 Рисуно 1 - Процесс хеширование (функция хеширования)
 
 
