@@ -1,4 +1,4 @@
-
+```
 ---
 ## Front matter
 title: "Реферат по теме: «Варианты протокола вручения бита. Подбрасывание монеты по телефону»"
@@ -66,6 +66,7 @@ header-includes:
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
+```
 
 
 # Цели и задачи работы
@@ -106,7 +107,7 @@ header-includes:
 - **односторонние функции** — вычислить прямое значение легко, обратное — невозможно;
 - **случайные строки (соли)** — обеспечивают непредсказуемость.
 
-<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff8263bd-074a-45d6-8e04-3867b29a55bc" />
+[<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff8263bd-074a-45d6-8e04-3867b29a55bc" />](https://fuzeservers.ru/wp-content/uploads/7/3/d/73dc20a3fb8f81b49625ff6678c0be92.png)
 Рисуно 1 - Процесс хеширование (функция хеширования)
 
 
@@ -247,4 +248,4 @@ C = H(b || r)
 
 # Список источников (литературы)
 
-1. (Отраслевой порта. Информационная безопасность бизнеса)[https://ib-bank.ru/glossary/solution/947]
+1. [Отраслевой порта. Информационная безопасность бизнеса](https://ib-bank.ru/glossary/solution/947)
