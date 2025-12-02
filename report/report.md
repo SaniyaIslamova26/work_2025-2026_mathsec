@@ -105,8 +105,7 @@ header-includes:
 - **односторонние функции** — вычислить прямое значение легко, обратное — невозможно;
 - **случайные строки (соли)** — обеспечивают непредсказуемость.
 
-<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/e92cee03-caeb-4114-9d8d-63b02ad38106" />
-
+<img width="1225" height="798" alt="Хеширование" src="https://github.com/user-attachments/assets/ce191178-04c3-495d-997a-b1bf892167e1" />
 Рисуно 1 - Процесс хеширование (функция хеширования)
 
 
